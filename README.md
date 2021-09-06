@@ -1,4 +1,4 @@
-# python-ai-projects
+# About
 
 Cool simple Python scripts that have some cool AI features. These scripts were mostly just made for me to practice. Feel free to use any of these for a reference for your project :)
 
